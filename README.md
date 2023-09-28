@@ -15,17 +15,17 @@ I needed to obtain specific information about employees, their machines, and the
 
  <h4>
 Retrieved after hours failed login attempts: </h4>
-<img src="https://imgur.com/5xuHJT2.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/hBdexwR.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Retrieved login attempts on a specific date:  </h4>
-<img src="https://imgur.com/95D65TY.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/zSVhQXL.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>Retrieved login attempts outside of Mexico: </h4>
-<img src="https://imgur.com/5xuHJT2.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/y4wv85g.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Retrieved employees in Marketing:  </h4>
-<img src="https://imgur.com/95D65TY.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/XUVbBy8.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>Retrieved employees in Finance or Sales: </h4>
-<img src="https://imgur.com/5xuHJT2.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/Youy3dE.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Retrieved all employees not in IT:  </h4>
-<img src="https://imgur.com/95D65TY.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/XBtehde.png" height="65%" width="70%" alt="Security Audit"/>
